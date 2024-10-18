@@ -1,5 +1,3 @@
-Sure! Here’s a sample README file for your SMART ATM project:
-
 ```markdown
 # SMART ATM
 
