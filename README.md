@@ -47,7 +47,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or feedback, please contact:
-- [Your Name](mailto:youremail@example.com)
+- Hemrajsinh Suratiya
 ```
 
 Feel free to modify any sections to better fit your project specifics!
